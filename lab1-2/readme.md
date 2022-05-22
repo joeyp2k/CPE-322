@@ -1,26 +1,26 @@
-#hostname
+# hostname
 ![hostname](hostname.PNG?raw=true)
-#env
+# env
 ![env](env.PNG?raw=true)
-#ps
+# ps
 ![ps](ps.PNG?raw=true)
-#hostname
+# hostname
 ![pwd](pwd.PNG?raw=true)
-#git clone
+# git clone
 ![git clone](clone.PNG?raw=true)
-#cd iot/ls/cd
+# cd iot/ls/cd
 ![cdls](cd.PNG?raw=true)
-#mkdir/nano/cat/cp/mv
+# mkdir/nano/cat/cp/mv
 ![demo](demo.PNG?raw=true)
-#clear
+# clear
 ![clear](clear.PNG?raw=true)
-#man uname
+# man uname
 ![uname](uname.PNG?raw=true)
-#uname -a
+# uname -a
 ![unamea](uname-a.PNG?raw=true)
-#ipconfig
+# ipconfig
 ![unamea](uname-a.PNG?raw=true)
-#ping localhost
+# ping localhost
 ![pinglocalhost](pinglocalhost.PNG?raw=true)
-#netstat
+# netstat
 ![netstat](netstat.PNG?raw=true)
